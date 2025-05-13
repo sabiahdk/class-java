@@ -62,3 +62,64 @@
 // } else if( grade > 100){
 //    alert("oop,invalid")
 // }
+
+
+// let myStr = "hello, Javascript world!"
+// let myName = "Sabiah Muhammad";
+
+
+// // console.log(myStr);
+// // console.log(myStr.toUpperCase);
+// console.log(myStr.tolowercase);
+// console.log(myStr.incude ("hello"));
+// console.log(myStr.slice (2,3));
+// console.log(myStr.trim());
+// console.log(myStr.charAt());
+// console.log(myStr.split (""));
+// console.log(myStr.split ("")[1]);
+// console.log(myStr.startwith ("Hello"));
+//  console.log(myname + myStr);
+//  console.log(myStr.endwith("hi");
+
+
+
+
+// NUMBER METHODS
+// let num = 42.442;
+// let StrNum = "55.98"
+
+
+
+// math method
+// console.log(math.PI);
+// console.log(math.round(41.632));
+// console.log(math.floor(43.7));
+// console.log(math.max(12,6,7));
+// console.log(math.random());
+// console.log(math.floor(math.random()*100));
+// console.log(math.pow(2,3));
+
+
+// Object
+
+// let student = {
+//     name:"shade",
+//     age;33,
+//     email:"sabiah@gmail.com"
+    
+// };
+
+// consol.log(student);
+// consol.log(student.name);
+// consol.log(Object.keys(student));
+// consol.log(Object.values(student));
+
+// functions
+// function myName(name){ console.log
+
+
+
+
+// }
+
+
