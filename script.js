@@ -117,9 +117,6 @@
 // functions
 // function myName(name){ console.log
 
-
-
-
-// }
+//}
 
 
